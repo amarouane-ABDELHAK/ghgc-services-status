@@ -1,8 +1,17 @@
 owner: amarouane-ABDELHAK # GitHub username
 repo: ghgc-services-status # GitHub repository name
 sites: # List of endpoints to track
-  - name: Google
-    url: https://www.google.com
+  - name: GHGC Dashboard
+    url: https://earth.gov/ghgcenter
+  - name: STAC_API
+    url: https://ghg.center/api/stac/_mgmt/ping
+  - name: RASTER_API
+    url: https://ghg.center/api/raster/healthz
+  - name: MOSAIC
+    url: https://ghg.center/api/raster/mosaic/list
+  - name: LINKS
+    url: https://ghg.center/api/raster/urlhealthz
+  
 assignees: # Users to assign downtime issues (optional)
   - amarouane-ABDELHAK
 status-website:
