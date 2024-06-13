@@ -58,18 +58,20 @@
     "url": "https://ghg.center/api/raster/mosaic/list",
     "icon": "https://icons.duckduckgo.com/ip3/ghg.center.ico",
     "slug": "mosaic",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 235,
-    "timeDay": 290,
-    "timeWeek": 196,
-    "timeMonth": 239,
-    "timeYear": 235,
-    "dailyMinutesDown": {}
+    "time": 233,
+    "timeDay": 217,
+    "timeWeek": 190,
+    "timeMonth": 236,
+    "timeYear": 233,
+    "dailyMinutesDown": {
+      "2024-06-13": 1
+    }
   },
   {
     "name": "LINKS",
@@ -88,7 +90,7 @@
     "timeMonth": 237,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2024-06-13": 78,
+      "2024-06-13": 1231,
       "2024-06-12": 1440,
       "2024-06-11": 1440,
       "2024-06-10": 1440,
