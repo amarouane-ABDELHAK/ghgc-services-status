@@ -4,13 +4,13 @@ sites: # List of endpoints to track
   - name: GHGC Dashboard
     url: https://earth.gov/ghgcenter
   - name: STAC_API
-    url: https://ghg.center/api/stac/_mgmt/ping
+    url: https://earth.gov/ghgcenter/api/stac/_mgmt/ping
   - name: RASTER_API
-    url: https://ghg.center/api/raster/healthz
+    url: https://earth.gov/ghgcenter/api/raster/healthz
   - name: MOSAIC
-    url: https://ghg.center/api/raster/mosaic/list
+    url: https://earth.gov/ghgcenter/api/raster/mosaic/list
   - name: LINKS
-    url: https://ghg.center/api/raster/urlhealthz
+    url: https://earth.gov/ghgcenter/raster/urlhealthz
   
 assignees: # Users to assign downtime issues (optional)
   - amarouane-ABDELHAK
